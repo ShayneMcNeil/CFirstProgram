@@ -1,8 +1,5 @@
 /*
-
-    Assignment: Exercise 2 for Programming in C
     Student: Shayne McNeil
-    Date: January 13, 2025
     Student ID: W0454809
 
 */
